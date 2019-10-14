@@ -4,7 +4,8 @@ install Node in the root folder from commandline.
 install npm and then run "npm start" in root dir from the commandline  
 Should open localhost:3000.
 
-only 1 page is completed with multiple components . the nav links are not implemented
+The work history view is ready to look at.
+the nav link end points are not implemented at this time.
 
 the UI is done using Grid areas and React
 
