@@ -1,10 +1,3 @@
-# React-Resume
-Develop a react app to serve my resume and show examples of my current coding examples
-
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
