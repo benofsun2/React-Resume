@@ -6,7 +6,7 @@ Should open localhost:3000.
 
 only 1 page is completed with multiple components . the nav links are not implemented
 
-the UI is a Grid areas UI on a create react app install from npm.
+the UI is done using Grid areas and React
 
 Node: https://nodejs.org/en/download/current/
 React: https://www.npmjs.com/package/create-react-app
